@@ -1,4 +1,3 @@
-config.py
 __pycache__/
 *.pyc
 venv/
@@ -8,3 +7,4 @@ venv/
 docs_cache/
 standards_embeddings_checkpoint.jsonl
 nul
+.streamlit/secrets.toml
