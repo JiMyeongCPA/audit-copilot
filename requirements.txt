@@ -1,0 +1,8 @@
+streamlit==1.59.0
+pandas==3.0.2
+altair==6.2.2
+google-genai==2.10.0
+streamlit-aggrid==1.2.1.post2
+numpy==2.4.4
+opendartreader==0.3.2
+requests==2.33.1
