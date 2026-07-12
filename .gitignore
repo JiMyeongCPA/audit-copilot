@@ -1,0 +1,10 @@
+config.py
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.csv
+!financial_database.csv
+docs_cache/
+standards_embeddings_checkpoint.jsonl
+nul

@@ -1,0 +1,522 @@
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "삼성전자"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기금융부채", "회사": "GS건설"}
+{"개념": "장기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "장기금융부채", "회사": "GS건설"}
+{"개념": "무형자산", "account_id": "-표준계정코드 미사용-", "account_nm": "무형자산", "회사": "GS건설"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금및유동성장기부채", "회사": "DL이앤씨"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "이마트"}
+{"개념": "계약자산", "account_id": "-표준계정코드 미사용-", "account_nm": "미청구공사", "회사": "이마트"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "BGF리테일"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "현대백화점"}
+{"개념": "무형자산", "account_id": "dart_OtherIntangibleAssetsGross", "account_nm": "무형자산", "회사": "현대백화점"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_NoncurrentProvisions", "account_nm": "충당부채", "회사": "현대백화점"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "삼성전자"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermWarrantyProvision", "account_nm": "유동품질보증충당부채", "회사": "원익IPS"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "ISC"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "ISC"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기금융부채", "회사": "GS건설"}
+{"개념": "장기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "장기금융부채", "회사": "GS건설"}
+{"개념": "무형자산", "account_id": "-표준계정코드 미사용-", "account_nm": "무형자산", "회사": "GS건설"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금및유동성장기부채", "회사": "DL이앤씨"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "공동기업및관계기업투자", "회사": "코오롱글로벌"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "이마트"}
+{"개념": "계약자산", "account_id": "-표준계정코드 미사용-", "account_nm": "미청구공사", "회사": "이마트"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "BGF리테일"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "현대백화점"}
+{"개념": "무형자산", "account_id": "dart_OtherIntangibleAssetsGross", "account_nm": "무형자산", "회사": "현대백화점"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_NoncurrentProvisions", "account_nm": "충당부채", "회사": "현대백화점"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "한섬"}
+{"개념": "유동충당부채", "account_id": "dart_CurrentProvisionsForProductWarranties", "account_nm": "유동성판매보증충당부채", "회사": "현대모비스"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "현대위아"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermMiscellaneousOtherProvisions", "account_nm": "유동 충당부채", "회사": "현대위아"}
+{"개념": "비유동충당부채", "account_id": "ifrs-full_LongtermMiscellaneousOtherProvisions", "account_nm": "비유동충당부채", "회사": "현대위아"}
+{"개념": "계약부채", "account_id": "ifrs-full_ContractLiabilitiesForPerformanceObligationsSatisfiedOverTime", "account_nm": "계약부채(초과청구공사)", "회사": "현대위아"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermWarrantyProvision", "account_nm": "유동 제품보증충당부채", "회사": "대원강업"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "롯데케미칼"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "SK이노베이션"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 무형자산", "회사": "SK이노베이션"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentFinancialLiabilities", "account_nm": "단기금융부채", "회사": "OCI홀딩스"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentFinancialLiabilities", "account_nm": "장기금융부채", "회사": "OCI홀딩스"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 기타무형자산", "회사": "POSCO홀딩스"}
+{"개념": "단기차입금", "account_id": "ifrs-full_OtherCurrentBorrowingsAndCurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "현대제철"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "현대제철"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "세아베스틸지주"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "세아베스틸지주"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자주식", "회사": "KG스틸"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자", "회사": "세아제강"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "SK바이오사이언스"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "유한양행"}
+{"개념": "유동성장기부채", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채", "회사": "유한양행"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "종근당"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "한미약품"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "동아에스티"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "일동제약"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "지분법을 사용하여 회계처리하는 관계기업 투자", "회사": "일동제약"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금(사채 제외)", "회사": "CJ제일제당"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "CJ제일제당"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "오뚜기"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "농심"}
+{"개념": "매출채권", "account_id": "dart_ShortTermTradeReceivable", "account_nm": "매출채권", "회사": "농심"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자자산", "회사": "롯데웰푸드"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업 및 공동기업투자", "회사": "하이트진로"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "동원F&B"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "풀무원"}
+{"개념": "유동성장기부채", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "유동성장기부채", "회사": "HMM"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "HMM"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업", "회사": "팬오션"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "대한항공"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "대한항공"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "아시아나항공"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "KSS해운"}
+{"개념": "유동충당부채", "account_id": "-표준계정코드 미사용-", "account_nm": "종업원급여충당부채", "회사": "KSS해운"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentFinancialLiabilities", "account_nm": "단기금융부채", "회사": "흥아해운"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentFinancialLiabilities", "account_nm": "장기금융부채", "회사": "흥아해운"}
+{"개념": "계약부채", "account_id": "ifrs-full_CurrentContractLiabilitiesForPerformanceObligationsSatisfiedOverTime", "account_nm": "계약부채", "회사": "흥아해운"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "현대글로비스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_NoncurrentProvisions", "account_nm": "충당부채", "회사": "한진칼"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금(사채 포함), 총액", "회사": "더존비즈온"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "더존비즈온"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "안랩"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "한글과컴퓨터"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "케이아이엔엑스"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "오픈베이스"}
+{"개념": "무형자산", "account_id": "dart_OtherIntangibleAssetsGross", "account_nm": "기타무형자산, 총액", "회사": "오픈베이스"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "오픈베이스"}
+{"개념": "유동충당부채", "account_id": "dart_CurrentProvisionsForProductWarranties", "account_nm": "유동판매보증충당부채", "회사": "오픈베이스"}
+{"개념": "매출채권", "account_id": "dart_ShortTermTradeReceivable", "account_nm": "매출채권", "회사": "오픈베이스"}
+{"개념": "계약자산", "account_id": "dart_CurrentFirmCommitmentAsset", "account_nm": "유동확정계약자산", "회사": "오픈베이스"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "인성정보"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "하나마이크론"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업투자", "회사": "서희건설"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "아이에스동서"}
+{"개념": "계약자산", "account_id": "-표준계정코드 미사용-", "account_nm": "미청구공사", "회사": "아이에스동서"}
+{"개념": "유동성장기부채", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채", "회사": "한솔케미칼"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금 및 유동성장기차입금", "회사": "HL만도"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "평화홀딩스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_Provisions", "account_nm": "충당부채", "회사": "평화홀딩스"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "신세계건설"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업및공동기업투자", "회사": "신세계건설"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금(사채 포함)", "회사": "대양금속"}
+{"개념": "영업권", "account_id": "dart_GoodwillGross", "account_nm": "영업권", "회사": "대양금속"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업및공동기업투자", "회사": "세방"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "국보"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "종속기업및관계기업투자주식", "회사": "국보"}
+{"개념": "매출채권", "account_id": "dart_ShortTermTradeReceivable", "account_nm": "매출채권", "회사": "국보"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "이스트소프트"}
+{"개념": "무형자산", "account_id": "dart_ComputerSoftwareGross", "account_nm": "무형자산", "회사": "이스트소프트"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자주식", "회사": "이스트소프트"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_LongtermProvisionForDecommissioningRestorationAndRehabilitationCosts", "account_nm": "복구충당부채", "회사": "이스트소프트"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "다우기술"}
+{"개념": "자기주식", "account_id": "dart_ElementsOfOtherStockholdersEquity", "account_nm": "자기주식및기타자본", "회사": "다우기술"}
+{"개념": "재고자산", "account_id": "ifrs-full_InventoriesTotal", "account_nm": "재고자산", "회사": "현대이지웰"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자주식", "회사": "현대이지웰"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "F&F"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 무형자산", "회사": "F&F"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "인디에프"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "형지엘리트"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "삼성전자"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermWarrantyProvision", "account_nm": "유동품질보증충당부채", "회사": "원익IPS"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "하나마이크론"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "ISC"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "ISC"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기금융부채", "회사": "GS건설"}
+{"개념": "장기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "장기금융부채", "회사": "GS건설"}
+{"개념": "무형자산", "account_id": "-표준계정코드 미사용-", "account_nm": "무형자산", "회사": "GS건설"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금및유동성장기부채", "회사": "DL이앤씨"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업투자", "회사": "서희건설"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "공동기업및관계기업투자", "회사": "코오롱글로벌"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "아이에스동서"}
+{"개념": "계약자산", "account_id": "-표준계정코드 미사용-", "account_nm": "미청구공사", "회사": "아이에스동서"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "신세계건설"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업및공동기업투자", "회사": "신세계건설"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "이마트"}
+{"개념": "계약자산", "account_id": "-표준계정코드 미사용-", "account_nm": "미청구공사", "회사": "이마트"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "BGF리테일"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "현대백화점"}
+{"개념": "무형자산", "account_id": "dart_OtherIntangibleAssetsGross", "account_nm": "무형자산", "회사": "현대백화점"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_NoncurrentProvisions", "account_nm": "충당부채", "회사": "현대백화점"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "한섬"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "F&F"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 무형자산", "회사": "F&F"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금 및 유동성장기차입금", "회사": "HL만도"}
+{"개념": "유동충당부채", "account_id": "dart_CurrentProvisionsForProductWarranties", "account_nm": "유동성판매보증충당부채", "회사": "현대모비스"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "현대위아"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermMiscellaneousOtherProvisions", "account_nm": "유동 충당부채", "회사": "현대위아"}
+{"개념": "비유동충당부채", "account_id": "ifrs-full_LongtermMiscellaneousOtherProvisions", "account_nm": "비유동충당부채", "회사": "현대위아"}
+{"개념": "계약부채", "account_id": "ifrs-full_ContractLiabilitiesForPerformanceObligationsSatisfiedOverTime", "account_nm": "계약부채(초과청구공사)", "회사": "현대위아"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "평화홀딩스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_Provisions", "account_nm": "충당부채", "회사": "평화홀딩스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermWarrantyProvision", "account_nm": "유동 제품보증충당부채", "회사": "대원강업"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "롯데케미칼"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "SK이노베이션"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 무형자산", "회사": "SK이노베이션"}
+{"개념": "유동성장기부채", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채", "회사": "한솔케미칼"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentFinancialLiabilities", "account_nm": "단기금융부채", "회사": "OCI홀딩스"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentFinancialLiabilities", "account_nm": "장기금융부채", "회사": "OCI홀딩스"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 기타무형자산", "회사": "POSCO홀딩스"}
+{"개념": "단기차입금", "account_id": "ifrs-full_OtherCurrentBorrowingsAndCurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "현대제철"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "현대제철"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "세아베스틸지주"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "세아베스틸지주"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자주식", "회사": "KG스틸"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금(사채 포함)", "회사": "대양금속"}
+{"개념": "영업권", "account_id": "dart_GoodwillGross", "account_nm": "영업권", "회사": "대양금속"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자", "회사": "세아제강"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "SK바이오사이언스"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "유한양행"}
+{"개념": "유동성장기부채", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채", "회사": "유한양행"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "종근당"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "한미약품"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "동아에스티"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "일동제약"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "지분법을 사용하여 회계처리하는 관계기업 투자", "회사": "일동제약"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금(사채 제외)", "회사": "CJ제일제당"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "CJ제일제당"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "오뚜기"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "농심"}
+{"개념": "매출채권", "account_id": "dart_ShortTermTradeReceivable", "account_nm": "매출채권", "회사": "농심"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자자산", "회사": "롯데웰푸드"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업 및 공동기업투자", "회사": "하이트진로"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "동원F&B"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "풀무원"}
+{"개념": "유동성장기부채", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "유동성장기부채", "회사": "HMM"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "HMM"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업", "회사": "팬오션"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "대한항공"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "대한항공"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "아시아나항공"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업및공동기업투자", "회사": "세방"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "KSS해운"}
+{"개념": "유동충당부채", "account_id": "-표준계정코드 미사용-", "account_nm": "종업원급여충당부채", "회사": "KSS해운"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentFinancialLiabilities", "account_nm": "단기금융부채", "회사": "흥아해운"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentFinancialLiabilities", "account_nm": "장기금융부채", "회사": "흥아해운"}
+{"개념": "계약부채", "account_id": "ifrs-full_CurrentContractLiabilitiesForPerformanceObligationsSatisfiedOverTime", "account_nm": "계약부채", "회사": "흥아해운"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "현대글로비스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_NoncurrentProvisions", "account_nm": "충당부채", "회사": "한진칼"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금(사채 포함), 총액", "회사": "더존비즈온"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "더존비즈온"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "안랩"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "한글과컴퓨터"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "다우기술"}
+{"개념": "자기주식", "account_id": "dart_ElementsOfOtherStockholdersEquity", "account_nm": "자기주식및기타자본", "회사": "다우기술"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "케이아이엔엑스"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "오픈베이스"}
+{"개념": "무형자산", "account_id": "dart_OtherIntangibleAssetsGross", "account_nm": "기타무형자산, 총액", "회사": "오픈베이스"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "오픈베이스"}
+{"개념": "유동충당부채", "account_id": "dart_CurrentProvisionsForProductWarranties", "account_nm": "유동판매보증충당부채", "회사": "오픈베이스"}
+{"개념": "매출채권", "account_id": "dart_ShortTermTradeReceivable", "account_nm": "매출채권", "회사": "오픈베이스"}
+{"개념": "계약자산", "account_id": "dart_CurrentFirmCommitmentAsset", "account_nm": "유동확정계약자산", "회사": "오픈베이스"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "인성정보"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "삼성전자"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermWarrantyProvision", "account_nm": "유동품질보증충당부채", "회사": "원익IPS"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "하나마이크론"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "ISC"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "ISC"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기금융부채", "회사": "GS건설"}
+{"개념": "장기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "장기금융부채", "회사": "GS건설"}
+{"개념": "무형자산", "account_id": "-표준계정코드 미사용-", "account_nm": "무형자산", "회사": "GS건설"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금및유동성장기부채", "회사": "DL이앤씨"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업투자", "회사": "서희건설"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "공동기업및관계기업투자", "회사": "코오롱글로벌"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "아이에스동서"}
+{"개념": "계약자산", "account_id": "-표준계정코드 미사용-", "account_nm": "미청구공사", "회사": "아이에스동서"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "신세계건설"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업및공동기업투자", "회사": "신세계건설"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "이마트"}
+{"개념": "계약자산", "account_id": "-표준계정코드 미사용-", "account_nm": "미청구공사", "회사": "이마트"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "BGF리테일"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "현대백화점"}
+{"개념": "무형자산", "account_id": "dart_OtherIntangibleAssetsGross", "account_nm": "무형자산", "회사": "현대백화점"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_NoncurrentProvisions", "account_nm": "충당부채", "회사": "현대백화점"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "한섬"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "F&F"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 무형자산", "회사": "F&F"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금 및 유동성장기차입금", "회사": "HL만도"}
+{"개념": "유동충당부채", "account_id": "dart_CurrentProvisionsForProductWarranties", "account_nm": "유동성판매보증충당부채", "회사": "현대모비스"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "현대위아"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermMiscellaneousOtherProvisions", "account_nm": "유동 충당부채", "회사": "현대위아"}
+{"개념": "비유동충당부채", "account_id": "ifrs-full_LongtermMiscellaneousOtherProvisions", "account_nm": "비유동충당부채", "회사": "현대위아"}
+{"개념": "계약부채", "account_id": "ifrs-full_ContractLiabilitiesForPerformanceObligationsSatisfiedOverTime", "account_nm": "계약부채(초과청구공사)", "회사": "현대위아"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "평화홀딩스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_Provisions", "account_nm": "충당부채", "회사": "평화홀딩스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermWarrantyProvision", "account_nm": "유동 제품보증충당부채", "회사": "대원강업"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "롯데케미칼"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "SK이노베이션"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 무형자산", "회사": "SK이노베이션"}
+{"개념": "유동성장기부채", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채", "회사": "한솔케미칼"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentFinancialLiabilities", "account_nm": "단기금융부채", "회사": "OCI홀딩스"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentFinancialLiabilities", "account_nm": "장기금융부채", "회사": "OCI홀딩스"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 기타무형자산", "회사": "POSCO홀딩스"}
+{"개념": "단기차입금", "account_id": "ifrs-full_OtherCurrentBorrowingsAndCurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "현대제철"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "현대제철"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "세아베스틸지주"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "세아베스틸지주"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자주식", "회사": "KG스틸"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금(사채 포함)", "회사": "대양금속"}
+{"개념": "영업권", "account_id": "dart_GoodwillGross", "account_nm": "영업권", "회사": "대양금속"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자", "회사": "세아제강"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "SK바이오사이언스"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "유한양행"}
+{"개념": "유동성장기부채", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채", "회사": "유한양행"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "종근당"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "한미약품"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "동아에스티"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "일동제약"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "지분법을 사용하여 회계처리하는 관계기업 투자", "회사": "일동제약"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금(사채 제외)", "회사": "CJ제일제당"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "CJ제일제당"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "오뚜기"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "농심"}
+{"개념": "매출채권", "account_id": "dart_ShortTermTradeReceivable", "account_nm": "매출채권", "회사": "농심"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자자산", "회사": "롯데웰푸드"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업 및 공동기업투자", "회사": "하이트진로"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "동원F&B"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "풀무원"}
+{"개념": "유동성장기부채", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "유동성장기부채", "회사": "HMM"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "HMM"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업", "회사": "팬오션"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "대한항공"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "대한항공"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "아시아나항공"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업및공동기업투자", "회사": "세방"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "KSS해운"}
+{"개념": "유동충당부채", "account_id": "-표준계정코드 미사용-", "account_nm": "종업원급여충당부채", "회사": "KSS해운"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentFinancialLiabilities", "account_nm": "단기금융부채", "회사": "흥아해운"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentFinancialLiabilities", "account_nm": "장기금융부채", "회사": "흥아해운"}
+{"개념": "계약부채", "account_id": "ifrs-full_CurrentContractLiabilitiesForPerformanceObligationsSatisfiedOverTime", "account_nm": "계약부채", "회사": "흥아해운"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "현대글로비스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_NoncurrentProvisions", "account_nm": "충당부채", "회사": "한진칼"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금(사채 포함), 총액", "회사": "더존비즈온"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "더존비즈온"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "안랩"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "한글과컴퓨터"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "다우기술"}
+{"개념": "자기주식", "account_id": "dart_ElementsOfOtherStockholdersEquity", "account_nm": "자기주식및기타자본", "회사": "다우기술"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "케이아이엔엑스"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "오픈베이스"}
+{"개념": "무형자산", "account_id": "dart_OtherIntangibleAssetsGross", "account_nm": "기타무형자산, 총액", "회사": "오픈베이스"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "오픈베이스"}
+{"개념": "유동충당부채", "account_id": "dart_CurrentProvisionsForProductWarranties", "account_nm": "유동판매보증충당부채", "회사": "오픈베이스"}
+{"개념": "매출채권", "account_id": "dart_ShortTermTradeReceivable", "account_nm": "매출채권", "회사": "오픈베이스"}
+{"개념": "계약자산", "account_id": "dart_CurrentFirmCommitmentAsset", "account_nm": "유동확정계약자산", "회사": "오픈베이스"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "인성정보"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "삼성전자"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermWarrantyProvision", "account_nm": "유동품질보증충당부채", "회사": "원익IPS"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "하나마이크론"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "ISC"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "ISC"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기금융부채", "회사": "GS건설"}
+{"개념": "장기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "장기금융부채", "회사": "GS건설"}
+{"개념": "무형자산", "account_id": "-표준계정코드 미사용-", "account_nm": "무형자산", "회사": "GS건설"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금및유동성장기부채", "회사": "DL이앤씨"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업투자", "회사": "서희건설"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "공동기업및관계기업투자", "회사": "코오롱글로벌"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "아이에스동서"}
+{"개념": "계약자산", "account_id": "-표준계정코드 미사용-", "account_nm": "미청구공사", "회사": "아이에스동서"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "신세계건설"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업및공동기업투자", "회사": "신세계건설"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "이마트"}
+{"개념": "계약자산", "account_id": "-표준계정코드 미사용-", "account_nm": "미청구공사", "회사": "이마트"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "BGF리테일"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "현대백화점"}
+{"개념": "무형자산", "account_id": "dart_OtherIntangibleAssetsGross", "account_nm": "무형자산", "회사": "현대백화점"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_NoncurrentProvisions", "account_nm": "충당부채", "회사": "현대백화점"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "한섬"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "F&F"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 무형자산", "회사": "F&F"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금 및 유동성장기차입금", "회사": "HL만도"}
+{"개념": "유동충당부채", "account_id": "dart_CurrentProvisionsForProductWarranties", "account_nm": "유동성판매보증충당부채", "회사": "현대모비스"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "현대위아"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermMiscellaneousOtherProvisions", "account_nm": "유동 충당부채", "회사": "현대위아"}
+{"개념": "비유동충당부채", "account_id": "ifrs-full_LongtermMiscellaneousOtherProvisions", "account_nm": "비유동충당부채", "회사": "현대위아"}
+{"개념": "계약부채", "account_id": "ifrs-full_ContractLiabilitiesForPerformanceObligationsSatisfiedOverTime", "account_nm": "계약부채(초과청구공사)", "회사": "현대위아"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "평화홀딩스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_Provisions", "account_nm": "충당부채", "회사": "평화홀딩스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermWarrantyProvision", "account_nm": "유동 제품보증충당부채", "회사": "대원강업"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "롯데케미칼"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "SK이노베이션"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 무형자산", "회사": "SK이노베이션"}
+{"개념": "유동성장기부채", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채", "회사": "한솔케미칼"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentFinancialLiabilities", "account_nm": "단기금융부채", "회사": "OCI홀딩스"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentFinancialLiabilities", "account_nm": "장기금융부채", "회사": "OCI홀딩스"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 기타무형자산", "회사": "POSCO홀딩스"}
+{"개념": "단기차입금", "account_id": "ifrs-full_OtherCurrentBorrowingsAndCurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "현대제철"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "현대제철"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "세아베스틸지주"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "세아베스틸지주"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자주식", "회사": "KG스틸"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금(사채 포함)", "회사": "대양금속"}
+{"개념": "영업권", "account_id": "dart_GoodwillGross", "account_nm": "영업권", "회사": "대양금속"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자", "회사": "세아제강"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "SK바이오사이언스"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "유한양행"}
+{"개념": "유동성장기부채", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채", "회사": "유한양행"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "종근당"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "한미약품"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "동아에스티"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "일동제약"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "지분법을 사용하여 회계처리하는 관계기업 투자", "회사": "일동제약"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금(사채 제외)", "회사": "CJ제일제당"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "CJ제일제당"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "오뚜기"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "농심"}
+{"개념": "매출채권", "account_id": "dart_ShortTermTradeReceivable", "account_nm": "매출채권", "회사": "농심"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자자산", "회사": "롯데웰푸드"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업 및 공동기업투자", "회사": "하이트진로"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "동원F&B"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "풀무원"}
+{"개념": "유동성장기부채", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "유동성장기부채", "회사": "HMM"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "HMM"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업", "회사": "팬오션"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "대한항공"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "대한항공"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "아시아나항공"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업및공동기업투자", "회사": "세방"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "KSS해운"}
+{"개념": "유동충당부채", "account_id": "-표준계정코드 미사용-", "account_nm": "종업원급여충당부채", "회사": "KSS해운"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentFinancialLiabilities", "account_nm": "단기금융부채", "회사": "흥아해운"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentFinancialLiabilities", "account_nm": "장기금융부채", "회사": "흥아해운"}
+{"개념": "계약부채", "account_id": "ifrs-full_CurrentContractLiabilitiesForPerformanceObligationsSatisfiedOverTime", "account_nm": "계약부채", "회사": "흥아해운"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "현대글로비스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_NoncurrentProvisions", "account_nm": "충당부채", "회사": "한진칼"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금(사채 포함), 총액", "회사": "더존비즈온"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "더존비즈온"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "안랩"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "한글과컴퓨터"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "다우기술"}
+{"개념": "자기주식", "account_id": "dart_ElementsOfOtherStockholdersEquity", "account_nm": "자기주식및기타자본", "회사": "다우기술"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "케이아이엔엑스"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "오픈베이스"}
+{"개념": "무형자산", "account_id": "dart_OtherIntangibleAssetsGross", "account_nm": "기타무형자산, 총액", "회사": "오픈베이스"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "오픈베이스"}
+{"개념": "유동충당부채", "account_id": "dart_CurrentProvisionsForProductWarranties", "account_nm": "유동판매보증충당부채", "회사": "오픈베이스"}
+{"개념": "매출채권", "account_id": "dart_ShortTermTradeReceivable", "account_nm": "매출채권", "회사": "오픈베이스"}
+{"개념": "계약자산", "account_id": "dart_CurrentFirmCommitmentAsset", "account_nm": "유동확정계약자산", "회사": "오픈베이스"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "인성정보"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "삼성전자"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "한미약품"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "삼성전자"}
+{"개념": "장기차입금상환액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기차입금의 상환", "회사": "삼성전기"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermWarrantyProvision", "account_nm": "유동품질보증충당부채", "회사": "원익IPS"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "하나마이크론"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "ISC"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "ISC"}
+{"개념": "장기차입금상환액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기차입금의 상환", "회사": "ISC"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기금융부채", "회사": "GS건설"}
+{"개념": "장기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "장기금융부채", "회사": "GS건설"}
+{"개념": "무형자산", "account_id": "-표준계정코드 미사용-", "account_nm": "무형자산", "회사": "GS건설"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금및유동성장기부채", "회사": "DL이앤씨"}
+{"개념": "유형자산취득액", "account_id": "dart_PurchaseOfOtherPropertyPlantAndEquipment", "account_nm": "기타유형자산의 취득", "회사": "DL이앤씨"}
+{"개념": "유형자산처분액", "account_id": "dart_ProceedsFromSalesOfOtherPropertyPlantAndEquipment", "account_nm": "기타유형자산의 처분", "회사": "DL이앤씨"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업투자", "회사": "서희건설"}
+{"개념": "무형자산취득액", "account_id": "dart_PurchaseOfOtherIntangibleAssets", "account_nm": "기타무형자산의 취득", "회사": "서희건설"}
+{"개념": "무형자산처분액", "account_id": "dart_ProceedsFromSalesOfOtherIntangibleAssets", "account_nm": "기타무형자산의 처분", "회사": "서희건설"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "공동기업및관계기업투자", "회사": "코오롱글로벌"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "아이에스동서"}
+{"개념": "계약자산", "account_id": "-표준계정코드 미사용-", "account_nm": "미청구공사", "회사": "아이에스동서"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "신세계건설"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업및공동기업투자", "회사": "신세계건설"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "이마트"}
+{"개념": "계약자산", "account_id": "-표준계정코드 미사용-", "account_nm": "미청구공사", "회사": "이마트"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "BGF리테일"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "현대백화점"}
+{"개념": "무형자산", "account_id": "dart_OtherIntangibleAssetsGross", "account_nm": "무형자산", "회사": "현대백화점"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_NoncurrentProvisions", "account_nm": "충당부채", "회사": "현대백화점"}
+{"개념": "유형자산취득액", "account_id": "dart_PurchaseOfConstructionInProgress", "account_nm": "건설건설중인유형자산의 취득", "회사": "신세계인터내셔날"}
+{"개념": "유형자산처분액", "account_id": "dart_ProceedsFromSalesOfOtherPropertyPlantAndEquipment", "account_nm": "기타유형자산의 처분", "회사": "신세계인터내셔날"}
+{"개념": "무형자산처분액", "account_id": "dart_ProceedsFromSalesOfOtherIntangibleAssets", "account_nm": "기타무형자산의 처분", "회사": "신세계인터내셔날"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "한섬"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "F&F"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 무형자산", "회사": "F&F"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금 및 유동성장기차입금", "회사": "HL만도"}
+{"개념": "유동충당부채", "account_id": "dart_CurrentProvisionsForProductWarranties", "account_nm": "유동성판매보증충당부채", "회사": "현대모비스"}
+{"개념": "단기차입금유입액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채및단기차입금의 차입", "회사": "현대모비스"}
+{"개념": "단기차입금상환액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채및단기차입금의 상환", "회사": "현대모비스"}
+{"개념": "무형자산취득액", "account_id": "dart_PurchaseOfIntangibleAssetsOtherThanGoodwill", "account_nm": "무형자산의 취득", "회사": "인지컨트롤스"}
+{"개념": "무형자산처분액", "account_id": "dart_ProceedsFromSalesOfIntangibleAssetsOtherThanGoodwill", "account_nm": "무형자산의 처분", "회사": "인지컨트롤스"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "현대위아"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermMiscellaneousOtherProvisions", "account_nm": "유동 충당부채", "회사": "현대위아"}
+{"개념": "비유동충당부채", "account_id": "ifrs-full_LongtermMiscellaneousOtherProvisions", "account_nm": "비유동충당부채", "회사": "현대위아"}
+{"개념": "계약부채", "account_id": "ifrs-full_ContractLiabilitiesForPerformanceObligationsSatisfiedOverTime", "account_nm": "계약부채(초과청구공사)", "회사": "현대위아"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "평화홀딩스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_Provisions", "account_nm": "충당부채", "회사": "평화홀딩스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_ShorttermWarrantyProvision", "account_nm": "유동 제품보증충당부채", "회사": "대원강업"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "롯데케미칼"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "SK이노베이션"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 무형자산", "회사": "SK이노베이션"}
+{"개념": "장기차입금유입액", "account_id": "ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities", "account_nm": "사채 및 장기차입금의 차입", "회사": "SK이노베이션"}
+{"개념": "장기차입금상환액", "account_id": "ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities", "account_nm": "사채 및 장기차입금의 상환", "회사": "SK이노베이션"}
+{"개념": "유동성장기부채", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채", "회사": "한솔케미칼"}
+{"개념": "장기차입금상환액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기차입금의 상환", "회사": "한솔케미칼"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentFinancialLiabilities", "account_nm": "단기금융부채", "회사": "OCI홀딩스"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentFinancialLiabilities", "account_nm": "장기금융부채", "회사": "OCI홀딩스"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "영업권 및 기타무형자산", "회사": "POSCO홀딩스"}
+{"개념": "단기차입금", "account_id": "ifrs-full_OtherCurrentBorrowingsAndCurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "현대제철"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "현대제철"}
+{"개념": "리스부채상환액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성리스부채의 상환", "회사": "현대제철"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "세아베스틸지주"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "세아베스틸지주"}
+{"개념": "장기차입금상환액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기차입금의 상환", "회사": "세아베스틸지주"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자주식", "회사": "KG스틸"}
+{"개념": "법인세납부액", "account_id": "ifrs-full_IncomeTaxesRefundClassifiedAsOperatingActivities", "account_nm": "4. 법인세의 납부", "회사": "KG스틸"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금(사채 포함)", "회사": "대양금속"}
+{"개념": "영업권", "account_id": "dart_GoodwillGross", "account_nm": "영업권", "회사": "대양금속"}
+{"개념": "리스부채상환액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성리스부채의 상환", "회사": "대양금속"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업투자", "회사": "세아제강"}
+{"개념": "장기차입금상환액", "account_id": "ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities", "account_nm": "유동성 장기차입금의 상환", "회사": "세아제강"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "SK바이오사이언스"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "유한양행"}
+{"개념": "유동성장기부채", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기부채", "회사": "유한양행"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "종근당"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "한미약품"}
+{"개념": "장기차입금상환액", "account_id": "ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities", "account_nm": "유동성장기차입금의 상환", "회사": "대웅제약"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "동아에스티"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "일동제약"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "지분법을 사용하여 회계처리하는 관계기업 투자", "회사": "일동제약"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금(사채 제외)", "회사": "CJ제일제당"}
+{"개념": "영업권", "account_id": "ifrs-full_IntangibleAssetsAndGoodwill", "account_nm": "무형자산 및 영업권", "회사": "CJ제일제당"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "오뚜기"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "농심"}
+{"개념": "매출채권", "account_id": "dart_ShortTermTradeReceivable", "account_nm": "매출채권", "회사": "농심"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자자산", "회사": "롯데웰푸드"}
+{"개념": "장기차입금상환액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기차입금의 상환", "회사": "롯데웰푸드"}
+{"개념": "장기차입금상환액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기차입금의 상환", "회사": "매일유업"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업 및 공동기업투자", "회사": "하이트진로"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "동원F&B"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "풀무원"}
+{"개념": "유동성장기부채", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "유동성장기부채", "회사": "HMM"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "HMM"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업", "회사": "팬오션"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "대한항공"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentPortionOfOtherNoncurrentBorrowings", "account_nm": "장기차입금", "회사": "대한항공"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "아시아나항공"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates", "account_nm": "관계기업및공동기업투자", "회사": "세방"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "KSS해운"}
+{"개념": "유동충당부채", "account_id": "-표준계정코드 미사용-", "account_nm": "종업원급여충당부채", "회사": "KSS해운"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentFinancialLiabilities", "account_nm": "단기금융부채", "회사": "흥아해운"}
+{"개념": "장기차입금", "account_id": "ifrs-full_NoncurrentFinancialLiabilities", "account_nm": "장기금융부채", "회사": "흥아해운"}
+{"개념": "계약부채", "account_id": "ifrs-full_CurrentContractLiabilitiesForPerformanceObligationsSatisfiedOverTime", "account_nm": "계약부채", "회사": "흥아해운"}
+{"개념": "무형자산취득액", "account_id": "dart_PurchaseOfIntangibleAssetsOtherThanGoodwill", "account_nm": "무형자산의 취득", "회사": "흥아해운"}
+{"개념": "무형자산처분액", "account_id": "dart_ProceedsFromSalesOfIntangibleAssetsOtherThanGoodwill", "account_nm": "무형자산의 처분", "회사": "흥아해운"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentLoansReceivedAndCurrentPortionOfNoncurrentLoansReceived", "account_nm": "단기차입금", "회사": "현대글로비스"}
+{"개념": "단기차입금유입액", "account_id": "ifrs-full_CashFlowsFromUsedInIncreaseDecreaseInCurrentBorrowings", "account_nm": "유동차입금의 증가(감소)", "회사": "현대글로비스"}
+{"개념": "유동충당부채", "account_id": "ifrs-full_NoncurrentProvisions", "account_nm": "충당부채", "회사": "한진칼"}
+{"개념": "리스부채상환액", "account_id": "dart_DecreaseDueToTerminationOrCancellationOfLeaseContractsLeaseLiabilities", "account_nm": "유동성리스부채의 상환", "회사": "한진칼"}
+{"개념": "장기차입금상환액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기차입금의 상환", "회사": "한진칼"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금(사채 포함), 총액", "회사": "더존비즈온"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "더존비즈온"}
+{"개념": "장기차입금상환액", "account_id": "-표준계정코드 미사용-", "account_nm": "유동성장기차입금의 상환", "회사": "더존비즈온"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociatesAccountedForUsingEquityMethod", "account_nm": "관계기업투자", "회사": "안랩"}
+{"개념": "단기차입금", "account_id": "-표준계정코드 미사용-", "account_nm": "단기차입금", "회사": "한글과컴퓨터"}
+{"개념": "단기차입금", "account_id": "ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings", "account_nm": "단기차입금", "회사": "다우기술"}
+{"개념": "자기주식", "account_id": "dart_ElementsOfOtherStockholdersEquity", "account_nm": "자기주식및기타자본", "회사": "다우기술"}
+{"개념": "유동리스부채", "account_id": "dart_CurentPortionOfFinanceLeaseLiabilities", "account_nm": "유동리스부채", "회사": "다우기술"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "케이아이엔엑스"}
+{"개념": "무형자산취득액", "account_id": "dart_PurchaseOfOtherIntangibleAssets", "account_nm": "기타무형자산의 취득", "회사": "케이아이엔엑스"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "오픈베이스"}
+{"개념": "무형자산", "account_id": "dart_OtherIntangibleAssetsGross", "account_nm": "기타무형자산, 총액", "회사": "오픈베이스"}
+{"개념": "관계기업투자", "account_id": "ifrs-full_InvestmentsInAssociates", "account_nm": "관계기업에 대한 투자자산", "회사": "오픈베이스"}
+{"개념": "유동충당부채", "account_id": "dart_CurrentProvisionsForProductWarranties", "account_nm": "유동판매보증충당부채", "회사": "오픈베이스"}
+{"개념": "장기차입금상환액", "account_id": "ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities", "account_nm": "유동성장기차입금의 상환", "회사": "오픈베이스"}
+{"개념": "매출채권", "account_id": "dart_ShortTermTradeReceivable", "account_nm": "매출채권", "회사": "오픈베이스"}
+{"개념": "계약자산", "account_id": "dart_CurrentFirmCommitmentAsset", "account_nm": "유동확정계약자산", "회사": "오픈베이스"}
+{"개념": "장기차입금", "account_id": "dart_LongTermBorrowingsGross", "account_nm": "장기차입금", "회사": "인성정보"}
