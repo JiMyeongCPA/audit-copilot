@@ -719,7 +719,7 @@ with right:
                     )
                 with c2:
                     stat_card(
-                        f"산업 평균 {r_label}",
+                        f"산업 중앙값 {r_label}",
                         format_ratio(r_avg, r_pct, r_suffix),
                         desc=r_desc,
                     )
@@ -777,9 +777,12 @@ with right:
                     lambda v: format_ratio(v, selected_ratio_meta["pct"], selected_ratio_meta.get("suffix"))
                 )
 
+            # 증감률은 산술평균, 나머지 비율은 중앙값(compute_industry_average)을 대표값으로 씀
+            peer_label = "산업 평균" if selected_ratio_col == GROWTH_COL else "산업 중앙값"
+
             chat_context += (
                 f"\n현재 '{selected_account}' 계정의 {selected_ratio_meta['label']}을 확인 중: "
-                f"{company} {format_selected(selected_value)} (업종 평균 {format_selected(selected_avg)})"
+                f"{company} {format_selected(selected_value)} ({peer_label.replace('산업', '업종')} {format_selected(selected_avg)})"
                 f"{', 업종 내 이상치 구간' if stats['is_outlier'] else ''}"
             )
 
@@ -808,7 +811,7 @@ with right:
                         if company in yr_growth.index and pd.notna(yr_growth[company]):
                             trend_rows.append({"연도": yr, "값": yr_growth[company], "구분": company})
                         if not yr_growth.empty:
-                            trend_rows.append({"연도": yr, "값": yr_growth.mean(), "구분": "산업 평균"})
+                            trend_rows.append({"연도": yr, "값": yr_growth.mean(), "구분": peer_label})
                 else:
                     for yr in sorted(ALL_YEARS):
                         yr_row = ratios[(ratios["회사명"] == company) & (ratios["연도"] == yr)]
@@ -816,7 +819,7 @@ with right:
                             trend_rows.append({"연도": yr, "값": yr_row.iloc[0][selected_ratio_col], "구분": company})
                         yr_avg = compute_industry_average(ratios, industry, yr, selected_ratio_col)
                         if yr_avg is not None:
-                            trend_rows.append({"연도": yr, "값": yr_avg, "구분": "산업 평균"})
+                            trend_rows.append({"연도": yr, "값": yr_avg, "구분": peer_label})
 
                 trend_ratio_df = pd.DataFrame(trend_rows)
                 trend_chart = (
@@ -827,7 +830,7 @@ with right:
                         y=alt.Y("값:Q", title=selected_ratio_meta["label"]),
                         color=alt.Color(
                             "구분:N",
-                            scale=alt.Scale(domain=[company, "산업 평균"], range=[ACCENT, "#94a3b8"]),
+                            scale=alt.Scale(domain=[company, peer_label], range=[ACCENT, "#94a3b8"]),
                             legend=alt.Legend(title=None),
                         ),
                     )
@@ -901,7 +904,7 @@ with right:
                                 "지표명": selected_ratio_meta["label"],
                                 "지표값": format_selected(selected_value),
                                 "업종": industry,
-                                "업종평균": format_selected(selected_avg),
+                                peer_label.replace("산업", "업종"): format_selected(selected_avg),
                                 "이상치": stats["is_outlier"],
                                 "당기금액_증감률": yoy,
                                 "통합계정_경고": has_combined_warning,

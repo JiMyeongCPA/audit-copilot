@@ -34,13 +34,19 @@ def compute_company_ratios(db, include_contract_asset=False):
     if include_contract_asset:
         effective_receivables = pivot["매출채권"] + pivot["계약자산"]
 
-    pivot["매출채권회전율"] = pivot["매출액"] / effective_receivables
-    pivot["재고자산회전율"] = pivot["매출원가"] / pivot["재고자산"]
+    # 분모가 0이면 무한대(inf) 대신 결측치로 처리 (_safe_ratio와 동일한 규칙).
+    # 소형사 중 매출채권=0, 재고자산=0, 매출액=0인 경우가 있어 inf가 업종 평균/박스플롯을 오염시킴.
+    receivables_safe = effective_receivables.replace(0, float("nan"))
+    inventory_safe = pivot["재고자산"].replace(0, float("nan"))
+    revenue_safe = pivot["매출액"].replace(0, float("nan"))
+
+    pivot["매출채권회전율"] = pivot["매출액"] / receivables_safe
+    pivot["재고자산회전율"] = pivot["매출원가"] / inventory_safe
     pivot["계약자산_존재"] = pivot["계약자산"] > 0
 
     # 매출채권 관련 추가 지표
-    pivot["매출채권평균회수기간"] = effective_receivables / pivot["매출액"] * 365
-    pivot["매출채권매출액비율"] = effective_receivables / pivot["매출액"]
+    pivot["매출채권평균회수기간"] = effective_receivables / revenue_safe * 365
+    pivot["매출채권매출액비율"] = effective_receivables / revenue_safe
 
     # 재고자산 관련 추가 지표
     _safe_ratio(pivot, "재고자산매출액비율", "재고자산", "매출액")
@@ -189,11 +195,28 @@ def compute_company_ratios(db, include_contract_asset=False):
 
 
 def compute_industry_average(ratios_df, industry, year, ratio_col):
-    """업종 평균 = 그 업종 회사들의 비율 '평균' (A방식: 회사별 비율의 평균, 규모 큰 회사가 더 큰 영향 안 미침)"""
+    """업종 대표값 = 그 업종 회사들의 비율 '중앙값'
+
+    산술평균 대신 중앙값을 쓰는 이유: 소형사 중 분모가 아주 작은 회사(재고자산·매출채권이
+    거의 0)가 회전율 같은 지표에서 수천 배의 극단값을 만들어, 산술평균이면 업종 대표값이
+    비현실적으로 커짐(예: 건설업 재고자산회전율 92회, IT 5356회). 중앙값은 이런 극단값에
+    강건하고 박스플롯의 중앙선과도 일치함.
+
+    매출채권평균회수기간은 매출채권회전율의 역수라서, 두 지표를 각각 따로 요약하면
+    365/(회전율 대표값)과 (회수기간 대표값)이 수학적으로 안 맞음(젠센 부등식). 그래서
+    회수기간은 "365 / 업종 중앙값 회전율"로 역산해서, 화면에 같이 뜨는 두 지표가 항상 일치하게 함.
+    """
     subset = ratios_df[(ratios_df["업종"] == industry) & (ratios_df["연도"] == year)]
+
+    if ratio_col == "매출채권평균회수기간":
+        turnover_median = subset["매출채권회전율"].median()
+        if pd.isna(turnover_median) or turnover_median == 0:
+            return None
+        return 365 / turnover_median
+
     if ratio_col not in subset.columns:
         return None
-    value = subset[ratio_col].mean()
+    value = subset[ratio_col].median()
     return value if pd.notna(value) else None
 
 
