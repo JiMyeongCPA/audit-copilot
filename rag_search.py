@@ -1,4 +1,5 @@
 import json
+import re
 import numpy as np
 from google import genai
 from config import GEMINI_API_KEY
@@ -8,6 +9,12 @@ client = genai.Client(api_key=GEMINI_API_KEY)
 EMBEDDING_MODEL = "gemini-embedding-001"
 CHUNKS_FILE = "standards_chunks.json"
 EMBEDDINGS_FILE = "standards_embeddings.npy"
+
+# 감사기준서의 '예시(illustrative)' 문단을 걸러내기 위한 마커.
+# 예시 감사보고서는 가상의 연도(20X1)·금액 placeholder(XXX)·가상 회사명(ABC주식회사/XYZ)을 씀.
+# 이런 문단이 검색되면 AI가 예시 속 허구 사실·문장을 이 회사의 근거로 인용하므로 검색 대상에서 제외한다.
+# (요구사항 본문에는 이런 마커가 없어 그대로 검색됨 — 예시만 정확히 제거)
+_EXAMPLE_MARKER = re.compile(r"20X[0-9]|XXX|ABC\s?주식회사|ABC회사|XYZ")
 
 _chunks = None
 _embeddings = None
@@ -44,6 +51,9 @@ def search(query, top_k=5, extra_diverse=3):
     scores = (embeddings @ query_vec) / norms
 
     order = np.argsort(-scores)
+    # 예시 문단 청크는 검색 대상에서 제외 (가상 사례를 원문으로 인용하는 것 방지)
+    order = [i for i in order if not _EXAMPLE_MARKER.search(chunks[i]["text"])]
+
     primary_idx = list(order[:top_k])
 
     seen_standards = {chunks[i]["기준서"] for i in primary_idx}
