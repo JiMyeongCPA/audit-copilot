@@ -9,6 +9,7 @@ from st_aggrid import AgGrid, GridOptionsBuilder
 from st_aggrid.shared import JsCode
 
 from industry_analysis import (
+    RATIO_COMPONENTS,
     compute_boxplot_stats,
     compute_company_ratios,
     compute_growth_boxplot_stats,
@@ -287,6 +288,33 @@ def compute_amt_growth_series(pivot_amt, yr):
 
 ACCENT = "#2563eb"
 GROWTH_COL = "__growth__"
+
+
+def related_accounts_for(account, ratio_family):
+    """선택 계정의 비율들이 '실제로 어떤 계정으로 계산되는지'(RATIO_COMPONENTS)에서
+    관련 계정을 기계적으로 유도. 사람이 임의로 고르지 않고 공식 구성에서만 뽑음.
+    선택 계정 자신은 제외하고, 화면에 나온 순서를 유지."""
+    related = []
+    for rm in ratio_family:
+        for comp in RATIO_COMPONENTS.get(rm["col"], []):
+            if comp != account and comp not in related:
+                related.append(comp)
+    return related
+
+
+def account_amount_and_growth(db, company, account, year):
+    """특정 회사·계정의 당기 금액(억원)과 전년대비 증감률(%)을 반환 (데이터 없으면 None)"""
+    s = (
+        db[(db["회사명"] == company) & (db["계정"] == account)]
+        .set_index("연도")["금액"]
+    )
+    if year not in s.index or pd.isna(s[year]):
+        return None, None
+    amount = s[year]
+    growth = None
+    if (year - 1) in s.index and pd.notna(s[year - 1]) and s[year - 1]:
+        growth = (s[year] / s[year - 1] - 1) * 100
+    return amount, growth
 
 st.markdown(
     """
@@ -898,15 +926,44 @@ with right:
                 else:
                     try:
                         with st.spinner("관련 감사기준서를 검색하고 질문을 생성하는 중..."):
+                            # 선택 계정의 '관련 비율 전부'를 회사값+업종중앙값+이상치와 함께 종합해서 넘김
+                            # (클릭한 지표 하나만이 아니라, 그 계정으로 볼 수 있는 지표들을 함께)
+                            ratio_lines = []
+                            for rm in ratio_family:
+                                r_col = rm["col"]
+                                r_val = row.get(r_col)
+                                if pd.isna(r_val):
+                                    continue
+                                r_avg = compute_industry_average(ratios, industry, year, r_col)
+                                r_stats = compute_boxplot_stats(ratios, industry, year, r_col, company)
+                                fmt = lambda v: format_ratio(v, rm["pct"], rm.get("suffix"))
+                                ratio_lines.append({
+                                    "지표명": rm["label"],
+                                    "회사값": fmt(r_val),
+                                    "업종중앙값": fmt(r_avg),
+                                    "이상치": r_stats["is_outlier"],
+                                })
+
+                            # 관련 계정: 비율 공식에 실제로 들어간 계정들(RATIO_COMPONENTS)에서 기계적으로 유도
+                            account_lines = []
+                            for acc in related_accounts_for(selected_account, ratio_family):
+                                amt, grw = account_amount_and_growth(db, company, acc, year)
+                                if amt is None:
+                                    continue
+                                account_lines.append({
+                                    "계정": acc,
+                                    "당기금액_억원": round(amt / 1e8),
+                                    "증감률": grw,
+                                })
+
                             context = {
                                 "회사명": company,
                                 "계정": selected_account,
-                                "지표명": selected_ratio_meta["label"],
-                                "지표값": format_selected(selected_value),
                                 "업종": industry,
-                                peer_label.replace("산업", "업종"): format_selected(selected_avg),
-                                "이상치": stats["is_outlier"],
-                                "당기금액_증감률": yoy,
+                                "연도": year,
+                                "선택계정_증감률": yoy,
+                                "관련_비율": ratio_lines,
+                                "관련_계정": account_lines,
                                 "통합계정_경고": has_combined_warning,
                                 "계약자산_포함": include_contract,
                             }

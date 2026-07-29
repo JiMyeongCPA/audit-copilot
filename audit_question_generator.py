@@ -30,21 +30,42 @@ SYSTEM_INSTRUCTION = """당신은 숙련된 회계감사인입니다. 사용자�
 
 
 def build_context_query(context):
-    """재무 상황을 자연어 문장으로 요약 (RAG 검색 쿼리 + 프롬프트에 재사용)"""
-    parts = [
-        f"{context['회사명']}의 {context['계정']} 관련 {context['지표명']}은 {context['지표값']}로, "
-        f"{context['업종']} 평균({context['업종평균']})과 비교했을 때 "
-    ]
-    if context.get("이상치"):
-        parts.append("업종 분포에서 중앙값을 크게 벗어난 이상치 구간에 있다.")
-    else:
-        parts.append("업종 평균과 비슷한 수준이다.")
+    """재무 상황을 자연어 문장으로 요약 (RAG 검색 쿼리 + 프롬프트에 재사용).
 
-    if context.get("당기금액_증감률") is not None:
-        parts.append(f"전년 대비 {context['당기금액_증감률']:.1f}% 변동했다.")
+    선택한 지표 하나가 아니라, 그 계정의 관련 비율 여러 개와 관련 계정(금액·증감)을
+    함께 요약해서 AI가 단일 지표가 아닌 종합적인 상황을 보고 질문을 뽑도록 함.
+    """
+    회사 = context["회사명"]
+    계정 = context["계정"]
+    업종 = context["업종"]
+
+    parts = [f"{업종} 업종에 속한 {회사}의 {계정} 계정을 감사 관점에서 검토 중이다."]
+
+    if context.get("선택계정_증감률") is not None:
+        parts.append(f"{계정}의 당기 금액은 전년 대비 {context['선택계정_증감률']:.1f}% 변동했다.")
+
+    ratio_segs = []
+    for r in context.get("관련_비율", []):
+        seg = f"{r['지표명']}은 {r['회사값']}(업종 중앙값 {r['업종중앙값']}"
+        seg += ", 업종 내 이상치 구간)" if r.get("이상치") else ")"
+        ratio_segs.append(seg)
+    if ratio_segs:
+        parts.append("이 계정과 관련된 재무비율은 다음과 같다: " + ", ".join(ratio_segs) + ".")
+
+    acc_segs = []
+    for a in context.get("관련_계정", []):
+        seg = f"{a['계정']} {a['당기금액_억원']:,}억원"
+        if a.get("증감률") is not None:
+            seg += f"(전년 대비 {a['증감률']:.1f}%)"
+        acc_segs.append(seg)
+    if acc_segs:
+        parts.append(
+            "함께 검토할 관련 계정(비율 산식에 직접 쓰이는 계정)의 당기 금액과 증감은 다음과 같다: "
+            + ", ".join(acc_segs) + "."
+        )
 
     if context.get("통합계정_경고"):
-        parts.append(f"이 회사는 {context['계정']} 관련 계정을 다른 계정과 통합하여 공시하고 있다.")
+        parts.append(f"이 회사는 {계정} 관련 계정을 다른 계정과 통합하여 공시하고 있다.")
 
     if context.get("계약자산_포함"):
         parts.append("계약자산(미청구공사)을 매출채권 회전율 계산에 포함했다.")
